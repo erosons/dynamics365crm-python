@@ -1,3 +1,6 @@
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started-container-sandbox
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started
+
 # dynamics365crm-python
 Dynamics365CRM API wrapper for Dynamics 365 written in Python.
 This library works for API version: v9.0
